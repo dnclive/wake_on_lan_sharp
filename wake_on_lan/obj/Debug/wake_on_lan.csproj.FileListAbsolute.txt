@@ -1,0 +1,9 @@
+D:\git\dnclive\wake_on_lan_sharp\wake_on_lan\bin\Debug\wake_on_lan.exe.config
+D:\git\dnclive\wake_on_lan_sharp\wake_on_lan\bin\Debug\wake_on_lan.exe
+D:\git\dnclive\wake_on_lan_sharp\wake_on_lan\bin\Debug\wake_on_lan.pdb
+D:\git\dnclive\wake_on_lan_sharp\wake_on_lan\obj\Debug\wake_on_lan.csprojResolveAssemblyReference.cache
+D:\git\dnclive\wake_on_lan_sharp\wake_on_lan\obj\Debug\wake_on_lan.Form1.resources
+D:\git\dnclive\wake_on_lan_sharp\wake_on_lan\obj\Debug\wake_on_lan.Properties.Resources.resources
+D:\git\dnclive\wake_on_lan_sharp\wake_on_lan\obj\Debug\wake_on_lan.csproj.GenerateResource.Cache
+D:\git\dnclive\wake_on_lan_sharp\wake_on_lan\obj\Debug\wake_on_lan.exe
+D:\git\dnclive\wake_on_lan_sharp\wake_on_lan\obj\Debug\wake_on_lan.pdb

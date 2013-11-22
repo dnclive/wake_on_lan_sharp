@@ -1,0 +1,5 @@
+D:\git\dnclive\wake_on_lan_sharp\wake_on_lan_console\bin\Debug\wake_on_lan_console.exe.config
+D:\git\dnclive\wake_on_lan_sharp\wake_on_lan_console\bin\Debug\wake_on_lan_console.exe
+D:\git\dnclive\wake_on_lan_sharp\wake_on_lan_console\bin\Debug\wake_on_lan_console.pdb
+D:\git\dnclive\wake_on_lan_sharp\wake_on_lan_console\obj\Debug\wake_on_lan_console.exe
+D:\git\dnclive\wake_on_lan_sharp\wake_on_lan_console\obj\Debug\wake_on_lan_console.pdb
